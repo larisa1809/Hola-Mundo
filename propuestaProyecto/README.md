@@ -5,7 +5,7 @@
 				</p>
 				<div style="text-align:center">
 				</div>
-				<p style="margin-top:0pt; margin-bottom:0pt; line-height:83%; font-size:10pt">
+				<p style="margin-top:0pt; margin-bottom:0pt; line-height:83%; font-size:12pt">
 					&#xa0;
 				</p>
 			</div>
