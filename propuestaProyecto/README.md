@@ -383,4 +383,4 @@
 				</p>
 			</div>
 		</div>
-	<p style="bottom: 10px; right: 10px; position: absolute;"><a href="https://wordtohtml.net" target="_blank" style="font-size:11px; color: #d0d0d0">Convertido a HTML con WordToHTML.net</a></p>
+	
