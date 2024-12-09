@@ -1,1 +1,2 @@
-
+# Propuesta del proyecto
+## Propuesta
