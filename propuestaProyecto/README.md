@@ -2,7 +2,7 @@
 ## Ciclo Formativo de Desarrollo de aplicaciones multiplataforma 
 ___________
 
-| <img width=250/>  | <img width=140/>Información general <img width=410/> |
+| <img width=250/>  | <img width=140/>Información general <img width=450/> |
 | ----- |:-------------------------------------------------------------------------------------------------------------------------------------- |
 |Alumno   |  Larysa Pshenychna     |
 |Titulo para el PI |      DAM          |
@@ -21,4 +21,8 @@ ___________
 |-------------------------------------|:-------------------------------------------------------------------------------------|
 |TECNOLOGÍAS EMPLEADAS:               |Java                                                                                  |
 |RECURSOS SOFTWARE Y HARDWARE:        |Android Studio                                                                        |
-                                                                                                                                                     
+
+| Referencias                                                                                                                     |
+|------------------------------------------------------------------------------------------------------------------------------------------|
+|*Listado de referencias (libros, páginas web, etc.), en las que te has basado para esta propuesta* <img width=400/>                              |
+|    |                                                                                                                                                      
